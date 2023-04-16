@@ -2,7 +2,7 @@
 
 # Also see attached pdf file
 
-# WooCommerce, Android, IOS
+# For WooCommerce, Android, IOS app integration
 # Using firebase functions
 
 Mpesa STKPUSH for WooCommerce is a payment gateway integration that allows 
