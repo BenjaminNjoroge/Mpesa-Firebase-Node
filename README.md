@@ -1,8 +1,8 @@
-# Mpesa-Firebase-Node
+# Mpesa-Firebase-Node (stk-push)
 
 # Also see attached pdf file
 
-# WooCommerce Android/ IOS
+# WooCommerce, Android, IOS
 # Using firebase functions
 
 Mpesa STKPUSH for WooCommerce is a payment gateway integration that allows 
