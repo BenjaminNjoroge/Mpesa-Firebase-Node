@@ -1,0 +1,25 @@
+{
+    "SANDBOX_AUTH_URL"   : "https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials",
+    "LIVE_AUTH_URL"     : "https://api.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials",
+
+    "SANDBOX_STKPUSH_URL"    : "https://sandbox.safaricom.co.ke/mpesa/stkpush/v1/processrequest",
+    "LIVE_STKPUSH_URL"      : "https://api.safaricom.co.ke/mpesa/stkpush/v1/processrequest",
+
+    "SANDBOX_BUSINESS_SHORTCODE"    : "174379",
+    "LIVE_BUSINESS_SHORTCODE"       : "",
+
+    "SANDBOX_PASSKEY"                : "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919",
+    "LIVE_PASSKEY"                   : "",
+
+    "SANDBOX_CONSUMER_KEY"           : "oSOIhZWAhYMB5tr4uwDJHV46nKWhGIkG",
+    "LIVE_CONSUMER_KEY"              : "",
+
+    "SANDBOX_CONSUMER_SECRET"        : "SrHqv9EqjGLJFyaa",
+    "LIVE_CONSUMER_SECRET"           : "",
+
+
+    "FUNCTIONS_URL"                  : "https://us-central1-mpesa-node-be9b5.cloudfunctions.net/mpesa"
+
+    
+
+}
